@@ -17,7 +17,6 @@
     "@ffmpeg/core": "^0.8.5",
     "@ffmpeg/ffmpeg": "^0.9.7",
     "bcrypt": "^5.0.1",
-    "body-parser": "^1.19.0",
     "connect-history-api-fallback": "^1.6.0",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
