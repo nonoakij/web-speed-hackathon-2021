@@ -1,5 +1,5 @@
 import FastAverageColor from 'fast-average-color';
-import moment from 'moment';
+import moment from 'dayjs';
 import React from 'react';
 
 import { getProfileImagePath } from '../../../utils/get_path';
